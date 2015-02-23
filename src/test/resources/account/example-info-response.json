@@ -1,0 +1,35 @@
+{
+	"success":true,
+	"data":{
+		"balances":{
+			"available":{
+				"PLN":614.00003000,
+				"EUR":0.00000000,
+				"BTC":0.58910000,
+				"LTC":0.00000000,
+				"DOGE":0.00000000,
+				"PPC":0.00000000,
+				"LiteMineX":0.00000000
+			},
+			"blocked":{
+				"PLN":0.00000000,
+				"BTC":0.01000000,
+				"EUR":0.00000000,
+				"LTC":0.00000000,
+				"DOGE":0.00000000,
+				"LiteMineX":0.00000000
+			}
+		},
+		"account":{
+			"turnover":0.0000,
+			"commissionMaker":0.0000,
+			"commissionTaker":0.0000
+		}
+	},
+	"time":1423858746,
+	"limit":{
+		"used":1,
+		"allowed":600,
+		"expires":1423858800
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"success":true,
+	"data":{
+		"buy":[
+			
+		],
+		"sell":[
+			{
+				"id":4262868,
+				"market":"BTCPLN",
+				"amount":0.01000000,
+				"rate":1500.0000,
+				"fiat":15.00000000,
+				"type":"sell",
+				"time":1423850537
+			}
+		]
+	},
+	"time":1423850551,
+	"limit":{
+		"used":4,
+		"allowed":600,
+		"expires":1423851000
+	}
+}

@@ -1,0 +1,36 @@
+{
+    "success":true,
+    "data":{
+        "total":2,
+        "start":0,
+        "count":2,
+        "results":[
+            {
+                "id":275879,
+                "amountCrypto":0.30000000,
+                "currencyCrypto":"BTC",
+                "amountFiat":330.29997000,
+                "currencyFiat":"PLN",
+                "time":1418707358,
+                "rate":1100.9999,
+                "type":"buy"
+            },
+            {
+                "id":273954,
+                "amountCrypto":0.30000000,
+                "currencyCrypto":"BTC",
+                "amountFiat":356.70000000,
+                "currencyFiat":"PLN",
+                "time":1418586807,
+                "rate":1189.0000,
+                "type":"buy"
+            }
+        ]
+    },
+    "time":1423862429,
+    "limit":{
+        "used":1,
+        "allowed":600,
+        "expires":1423863000
+    }
+}
