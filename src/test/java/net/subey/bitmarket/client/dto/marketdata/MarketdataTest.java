@@ -57,8 +57,8 @@ public class MarketdataTest {
 
     BitMarketPublicTrade firstEntry = trades.iterator().next();
 
-    assertThat(firstEntry.getPrice()).isEqualTo("853.0100");
-    assertThat(firstEntry.getAmount()).isEqualTo("0.10006030");
+    assertThat(firstEntry.getPrice()).isEqualTo("853.01");
+    assertThat(firstEntry.getAmount()).isEqualTo("0.1000603");
     assertThat(firstEntry.getTid()).isEqualTo("397406");
     assertThat(firstEntry.getType()).isEqualTo("ask");
 
